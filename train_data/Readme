@@ -1,0 +1,3 @@
+Here is train data after preprocessing (/codes/preprocess.py)
+/filtered_train-image/...
+/filtered_train-metadata.csv (uploaded csv file is just example)
